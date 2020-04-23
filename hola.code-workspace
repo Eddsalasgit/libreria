@@ -1,0 +1,17 @@
+{
+    "folders": [
+		{
+			"path": "..\\..\\..\\Chessani"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\backend"
+		},
+		{
+			"path": "..\\..\\05-REST-Server-Clase"
+		}
+	],
+    "settings": {}
+}
